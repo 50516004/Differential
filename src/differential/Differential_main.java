@@ -17,7 +17,7 @@ public class Differential_main {
         System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”÷•ªŒW”‚Í"+dlib.getRx());
         System.out.println("f(x)=x^2‚Ìx="+a+"‚É‚¨‚¯‚é”’l”÷•ª‚Í"+dlib.getDx());
         System.out.println("‘Š‘ÎŒë·‚Í"+dlib.getgosa());
-
+       //¸“x‚ªˆê”Ô‚æ‚¢‚Æ‚«‚Ìh‚Ì’l‚Í0.00000001
 	}
 
 }
